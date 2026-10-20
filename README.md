@@ -32,6 +32,9 @@ Six hands-on AWS labs documented from scratch — IAM, VPC networking, EC2, S3, 
 **[QuickBalance — Banking Self-Service App](https://github.com/kgotso-mapulane/QuickBalance)**
 A mock banking self-service application built with Python and Streamlit. Features customer login with error handling, account summary, current balance, last 5 transactions, and a mini statement with date filtering. Designed around a real problem — giving customers self-service access to account information without calling the bank or visiting a branch.
 
+**[Banking Transaction Analytics](https://github.com/kgotso-mapulane/Banking-Transaction-Analytics)**
+Analysed fictional banking transaction data using SQL and Python/Pandas, created data visualisations with Matplotlib, and built an interactive Power BI dashboard to explore transaction patterns, channel usage, failed transactions, and monthly trends.
+
 ---
 
 ## 📜 Certifications
