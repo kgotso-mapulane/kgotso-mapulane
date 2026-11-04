@@ -39,6 +39,7 @@ Analysed fictional banking transaction data using SQL and Python/Pandas, created
 
 ## 📜 Certifications
 
+- AWS Certified AI Practitioner
 - Microsoft Certified: Azure Fundamentals
 - AWS Cloud Quest: Cloud Practitioner
 - WorkFusion: Intelligent Automation for Banking
